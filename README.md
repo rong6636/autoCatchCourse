@@ -12,7 +12,8 @@
 
 
 # 執行
+執行瀏覽器後 要在五秒內自行輸入驗證碼
 
 ![image](https://user-images.githubusercontent.com/61511627/134672575-4513624f-445d-4202-af34-e929d621f0d6.png)
 
-執行瀏覽器後 要在五秒內自行輸入驗證碼
+
